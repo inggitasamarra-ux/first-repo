@@ -17,13 +17,13 @@ Ini adalah quote
 ###### Heading 6
 
 ```sh
-# Pre pakai git
+# Pre pakai git (ini sekali cukup)
 git config  --global user.name "Nama di Github"
-git config --global user.mail "Email di Github"
+git config --global user.email "Email di Github"
 ```
 
 ```sh
-# Inisialisasi
+# Inisialisasi (ini sekali cukup)
 git init
 
 # Kita pengen kasih tau "file yang akan disimpan"
@@ -37,3 +37,7 @@ git commit -m "alasan simpannya apa"
 ```
 
 Ini adalah tulisan tambahan
+
+Ini tulisan tambahan lagi
+Cek
+Cek
