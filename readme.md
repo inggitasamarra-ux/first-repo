@@ -39,8 +39,5 @@ git commit -m "alasan simpannya apa"
 Ini adalah tulisan tambahan
 
 Ini tulisan tambahan lagi
-Cek
-Cek
-Cek
-Cek
-Coba lagi
+
+Ini coba lagi
